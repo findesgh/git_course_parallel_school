@@ -18,7 +18,8 @@ from ex2.operations import plus
 #print python version
 print("PYTHON VERSION : " +str(sys.version_info[:3]))
 
-print("Calculator software giorgio")
+
+print("Calculator software Martin")
 
 #2.1.14 OD change the same line, commit and push on their remote repos
 a = 4
